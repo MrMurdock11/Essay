@@ -1,2 +1,2 @@
-# Draft
+# Essay
 Visual Editor.
